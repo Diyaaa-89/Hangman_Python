@@ -13,7 +13,6 @@ print("Anyone from below..")
 print("'python','programming','treasure','creative','medium','horror'\n")
 time.sleep(0.5)
 
-## A List Of Secret Words
 words = ['python','programming','treasure','creative','medium','horror']
 word = random.choice(words)
 
